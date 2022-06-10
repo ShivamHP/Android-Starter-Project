@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragNavSafeArgs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="go_to_another_fragment">Go to another fragment</string>
+    <string name="enter_text">Enter text</string>
+</resources>

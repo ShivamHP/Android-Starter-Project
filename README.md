@@ -24,7 +24,7 @@ dependencies{
 }
 ```
 
-Project level build.gradle: (NOTE: Add this code above plugin{}  
+Project level build.gradle: (NOTE: Add this code above plugin{})  
 ```
 buildscript {
     repositories {
